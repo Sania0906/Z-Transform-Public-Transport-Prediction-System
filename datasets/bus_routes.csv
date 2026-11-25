@@ -1,0 +1,6 @@
+route_id,route_name,route_short_name,route_color,origin,destination,total_distance_km,typical_duration_min,frequency_min,is_active
+R-101,Downtown Metro Express,EX-101,#1E88E5,Central Terminal Station,Tech Innovation Hub,14.8,42.0,8,1
+R-202,Emerald University & Med Corridor,UM-202,#00B0FF,West Bay Interchange,Medical Science Park,12.4,36.0,10,1
+R-303,Crimson Airport SkyLink,SL-303,#7C4DFF,International Terminal Plaza,Civic Center Grand Plaza,18.5,48.0,12,1
+R-404,Amber Suburban Circular Loop,SC-404,#00E5FF,Northgate Transit Station,East Gateway Hub,15.6,44.0,15,1
+R-505,Harbor Waterfront Promenade,WP-505,#29B6F6,Maritime Pier 39,Financial District Boulevard,9.2,26.0,10,1

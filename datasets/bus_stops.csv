@@ -1,0 +1,45 @@
+stop_id,stop_name,latitude,longitude,shelter_type,has_digital_signage,transfer_routes
+S-101,Central Terminal Station,37.7749,-122.4194,Enclosed Glass Terminal,1,"R-202, R-303"
+S-102,Market & 5th Avenue,37.7833,-122.4089,Canopy Shelter,1,R-303
+S-103,Financial Center Plaza,37.7915,-122.4005,Enclosed Glass Terminal,1,R-505
+S-104,Embarcadero Gateway,37.7955,-122.3937,Canopy Shelter,1,R-505
+S-105,Mission Bay Boulevard,37.7765,-122.3912,Digital Modern Pod,1,R-202
+S-106,Bio-Research Center,37.7682,-122.3895,Canopy Shelter,1,None
+S-107,Potrero Hill Transit Node,37.7588,-122.3982,Standard Shelter,1,None
+S-108,Design District Walkway,37.767,-122.405,Standard Shelter,1,R-404
+S-109,Civic Auditorium,37.778,-122.417,Digital Modern Pod,1,R-303
+S-110,Tech Innovation Hub,37.7885,-122.4072,Enclosed Glass Terminal,1,"R-202, R-404"
+S-201,West Bay Interchange,37.7645,-122.4468,Enclosed Glass Terminal,1,R-404
+S-202,Castro Street Gateway,37.7609,-122.435,Canopy Shelter,1,None
+S-203,Valencia Cultural District,37.76,-122.4215,Standard Shelter,1,None
+S-204,Mission Central Hub,37.7628,-122.4181,Digital Modern Pod,1,R-101
+S-205,General Hospital East Wing,37.7552,-122.4048,Enclosed Glass Terminal,1,None
+S-206,Dogpatch Arts Walk,37.7602,-122.3888,Canopy Shelter,1,R-505
+S-207,UCSF Medical Plaza,37.7668,-122.3905,Digital Modern Pod,1,R-101
+S-208,South Beach Marina,37.781,-122.39,Standard Shelter,1,R-505
+S-209,Medical Science Park,37.7685,-122.392,Enclosed Glass Terminal,1,"R-101, R-303"
+S-301,International Terminal Plaza,37.72,-122.4,Enclosed Glass Terminal,1,None
+S-302,Bayshore Expressway Junction,37.735,-122.405,Canopy Shelter,1,None
+S-303,Silver Terrace Node,37.745,-122.403,Standard Shelter,1,None
+S-304,Cesar Chavez Boulevard,37.7525,-122.406,Digital Modern Pod,1,R-202
+S-305,16th Street Urban Transfer,37.765,-122.419,Enclosed Glass Terminal,1,"R-101, R-202"
+S-306,Van Ness Civic Corridor,37.775,-122.42,Canopy Shelter,1,R-101
+S-307,City Hall South Portico,37.779,-122.418,Digital Modern Pod,1,None
+S-308,Civic Center Grand Plaza,37.781,-122.415,Enclosed Glass Terminal,1,"R-101, R-404"
+S-401,Northgate Transit Station,37.802,-122.42,Enclosed Glass Terminal,1,None
+S-402,Marina Boulevard Green,37.805,-122.435,Canopy Shelter,1,None
+S-403,Presidio East Entrance,37.798,-122.448,Standard Shelter,1,None
+S-404,Richmond Center,37.78,-122.46,Canopy Shelter,1,None
+S-405,Sunset Boulevard Crossing,37.76,-122.455,Standard Shelter,1,None
+S-406,Twin Peaks Panorama,37.754,-122.447,Digital Modern Pod,1,R-202
+S-407,Diamond Heights Heights,37.744,-122.44,Standard Shelter,1,None
+S-408,Glen Park Rail Connector,37.733,-122.433,Enclosed Glass Terminal,1,None
+S-409,Mission Dolores Square,37.76,-122.426,Canopy Shelter,1,R-202
+S-410,East Gateway Hub,37.77,-122.4,Enclosed Glass Terminal,1,"R-101, R-303"
+S-501,Maritime Pier 39,37.8087,-122.4098,Enclosed Glass Terminal,1,None
+S-502,Fisherman's Wharf Central,37.808,-122.4177,Canopy Shelter,1,None
+S-503,Aquatic Park Promenade,37.806,-122.423,Standard Shelter,1,None
+S-504,North Beach Historic Way,37.8,-122.41,Canopy Shelter,1,None
+S-505,Ferry Building Plaza,37.7955,-122.3937,Digital Modern Pod,1,R-101
+S-506,Rincon Hill Overlook,37.787,-122.392,Canopy Shelter,1,None
+S-507,Financial District Boulevard,37.792,-122.402,Enclosed Glass Terminal,1,"R-101, R-202"

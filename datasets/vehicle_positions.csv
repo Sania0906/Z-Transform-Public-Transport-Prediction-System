@@ -1,0 +1,16 @@
+vehicle_id,route_id,vehicle_model,capacity,driver_name,status,latitude,longitude,speed_kmh,bearing,last_stop_id,next_stop_id,distance_to_next_km,current_delay_sec,passenger_load_pct,last_updated
+BUS-1011,R-101,Nova Electric LFS-60,85,Marcus Vance,En Route,37.784823,-122.407534,23.5,39.0,S-102,S-103,0.98,49.9,38,2026-11-23 16:02:08
+BUS-1012,R-101,New Flyer Xcelsior Charge,75,Elena Rostova,En Route,37.780408,-122.414477,26.4,36.4,S-109,S-110,1.14,-32.3,52,2026-11-23 16:02:08
+BUS-1013,R-101,BYD K9M Electric,70,Devon Hayes,En Route,37.785859,-122.392511,18.5,174.1,S-104,S-105,1.05,39.5,78,2026-11-23 16:02:08
+BUS-2021,R-202,Proterra ZX5 Max,75,Sarah Lin,En Route,37.759744,-122.411693,23.6,125.9,S-204,S-205,0.77,324.5,45,2026-11-23 16:02:08
+BUS-2022,R-202,New Flyer Xcelsior Charge,75,Jamal Washington,En Route,37.772171,-122.390143,21.1,1.6,S-207,S-208,0.97,361.8,68,2026-11-23 16:02:08
+BUS-2023,R-202,Nova Electric LFS-60,85,Chloe Bennett,Delayed,37.760568,-122.432238,19.9,94.8,S-202,S-203,0.94,315.2,58,2026-11-23 16:02:08
+BUS-3031,R-303,Gillig Low Floor EV,65,Kenji Sato,En Route,37.779433,-122.418033,27.2,49.9,S-307,S-308,0.66,8.1,73,2026-11-23 16:02:08
+BUS-3032,R-303,Proterra ZX5 Max,75,Ananya Sharma,En Route,37.727529,-122.402851,34.6,345.2,S-301,S-302,0.8,217.9,71,2026-11-23 16:02:08
+BUS-3033,R-303,New Flyer Xcelsior Charge,75,Mateo Rossi,En Route,37.767542,-122.41919,19.4,355.5,S-305,S-306,0.8,236.0,62,2026-11-23 16:02:08
+BUS-4041,R-404,BYD K9M Electric,70,Hannah Abbott,En Route,37.799487,-122.445157,35.3,235.7,S-402,S-403,0.35,116.6,83,2026-11-23 16:02:08
+BUS-4042,R-404,Nova Electric LFS-60,85,Travis Scott,At Stop,37.751801,-122.445221,25.1,151.0,S-406,S-407,0.94,239.8,34,2026-11-23 16:02:08
+BUS-4043,R-404,Gillig Low Floor EV,65,Maya Patel,En Route,37.78859,-122.454714,22.9,207.8,S-403,S-404,1.08,151.5,59,2026-11-23 16:02:08
+BUS-5051,R-505,Proterra ZX5 Max,75,Liam Gallagher,En Route,37.789995,-122.398284,22.4,302.3,S-506,S-507,0.38,92.8,32,2026-11-23 16:02:08
+BUS-5052,R-505,New Flyer Xcelsior Charge,75,Sofia Gomez,En Route,37.806204,-122.421431,34.1,244.5,S-502,S-503,0.22,125.5,33,2026-11-23 16:02:08
+BUS-5053,R-505,BYD K9M Electric,70,Oliver Twist,En Route,37.806241,-122.42197,29.3,244.5,S-502,S-503,0.17,260.1,52,2026-11-23 16:02:08
